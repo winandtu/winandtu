@@ -38,7 +38,10 @@ Here are some ideas to get you started:
 
 <br>
 <!--- snake -->
-
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> **Github Stats**
 
