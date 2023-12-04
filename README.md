@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> **About me**
 
-<img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width="250px">
+
 
 - Systems engineering student at Universidad del Valle
 - Environmental engineering student at Universidad del Valle
