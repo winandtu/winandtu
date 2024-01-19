@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"> **About me**
 
 
-
-- Systems engineering student at Universidad del Valle
+- Full Stack developer at Decimetrix SAS
+- Software engineering student at Universidad del Valle
 - Environmental engineering student at Universidad del Valle
 - A passionate Developer
 <br>
