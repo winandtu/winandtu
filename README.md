@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 
 
 - Full Stack developer at Decimetrix SAS
-- Software engineering student at Universidad del Valle
-- Environmental engineering student at Universidad del Valle
+- Software engineering
+- Environmental engineering
 - A passionate Developer
 <br>
 
